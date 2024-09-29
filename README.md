@@ -1,1 +1,2 @@
-#Myntra clone (https://github.com/Subhashdrx2002/Myntra-clone/blob/cdf72de00633c63dd828254661962735fca75661/Screenshot_20240929-083717.png)
+#myntra_clone![Myntra-Clone](https://github.com/user-attachments/assets/bf32e467-569a-4c40-b1c2-43f954996de3)
+
