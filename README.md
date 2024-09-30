@@ -1,5 +1,4 @@
 #link(https://subhashdrx2002.github.io/Myntra-clone/)
-<a href="(https://github.com/user-attachments/assets/17d69c51-dcaf-40dc-9181-cbea9b4a6a79">**Visit Now** 🚀</a>
-#myntra_clone!)
+#myntra clone![Myntra-Clone (1)](https://github.com/user-attachments/assets/cec7c23b-518b-4a1b-8941-d81b650b8056)
 
 
